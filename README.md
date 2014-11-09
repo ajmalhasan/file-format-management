@@ -11,6 +11,8 @@ You can download evaluation API's from following urls.
 
 http://www.aspose.com/community/files/default.aspx
 
-There is sql dump in project that you can use to create database in MySQL.
+The sample database for this application can be acquired from following url
+
+http://www.ntu.edu.sg/home/ehchua/programming/sql/SampleDatabases.html
 
 
