@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="FileFormatManagement"
+  id="myeclipse.1415094838656"
+  context-root="/FileFormatManagement"
+  j2ee-spec="1.4"
+  archive="FileFormatManagement.war">
+  <attributes>
+    <attribute name="webrootdir" value="/WebRoot" />
+  </attributes>
+</project-module>
+
