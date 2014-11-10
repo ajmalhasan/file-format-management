@@ -11,13 +11,29 @@ You can download evaluation API's from following urls.
 
 http://www.aspose.com/community/files/default.aspx
 
-The sample database for this application can be acquired from following url
+USAGE:
 
-http://www.ntu.edu.sg/home/ehchua/programming/sql/SampleDatabases.html
+When the application is run it shows four options as radio button group i.e
+
+1. Search All Employees.
+2. Search All Department.
+3. Search By Employee.
+4. Search By Department.
+
+When search by employee or by department is checked a combo box with employees or departments is shown which can be selectd.
+
+User have to select file format type in the combo box.
+
+After the search criteria is submitted, a download link will display from where a report can be downloaded in required format.
+
+
+
 
 CONFIGURATION:
 
 This is a web project and you can easily import it on Eclipse however there will be slight modifications on Netbeans or InteliJ IDE's. I have included all the dependencies in the lib folder you can add these into you classpath.
+
+I have included database dummp as employees.rar file with the project.
 
 I have used Tomcat 6 as a application server, however project can be run on other application servers like JBoss or GlassFish.
 
