@@ -1,6 +1,6 @@
 File-Format-Management
 
-This is sample project to show how Aspose API's can help in document processing/conversion in difference file formats. This application shows reports against different queries and display the reports in Excel, PDF, HTML and PNG formats.
+This is sample project to show how Aspose API's can help in document processing/conversion in difference file formats. This application shows reports against different queries and displays the reports in Excel, PDF, HTML and PNG formats.
 
 For this sample project I have used Aspose Cell component API for JAVA. For programmers guide you can visit following link.
 
@@ -27,7 +27,7 @@ After the search criteria is submitted, a download link will display from where 
 
 CONFIGURATION:
 
-This is a web project and you can easily import it on Eclipse however there will be slight modifications on Net-beans or InteliJ IDE's. I have included all the dependencies in the lib folder you can add these into you class-path.
+This is a web project and you can easily import it on Eclipse however there will be slight modifications on Net-beans or IntelliJ IDEA. I have included all the dependencies in the lib folder you can add these into you class-path.
 
 I have included database dump as employees.rar file with the project.
 
