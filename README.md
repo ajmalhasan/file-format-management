@@ -1,21 +1,21 @@
 File-Format-Management
 
-This is sample project to show how Aspose API's can help in document processing/conversion in difference file formats. This application shows reports against different queries and displays the reports in Excel, PDF, HTML and PNG formats.
+This is sample project to show how Aspose APIs can help in document processing/conversion in difference file formats. This application shows reports against different queries and displays the reports in Excel, PDF, HTML and PNG formats.
 
-For this sample project I have used Aspose Cell component API for JAVA. For programmers guide you can visit following link.
+For this sample project I have used Aspose.Cells for JAVA. For programmers guide you, can visit following link:
 
 http://www.aspose.com/docs/display/cellsjava/Programmers+Guide
 
-You can download evaluation API's from following URLs.
+You can download evaluation APIs from following URLs:
 
 http://www.aspose.com/community/files/default.aspx
 
 USAGE:
 
-When the application is run it shows four options as radio button group i.e
+When the application is run it shows four options as radio button group i.e.
 
     Search All Employees.
-    Search All Department.
+    Search All Departments.
     Search By Employee.
     Search By Department.
 
