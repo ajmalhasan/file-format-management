@@ -3,11 +3,11 @@
 >This is a sample Java web project that shows how Aspose APIs can assist in document creation, formatting, processing and conversion in different formats like spread sheets, word and pdf documents. This project creates reports in MS Excel, PDF, HTML and PNG formats against some selected criteria.
 <hr>
 
-For this sample project I have used Aspose.Cells for JAVA. For programmers guide you, can visit following link:
+For this sample project Aspose.Cells for JAVA has been used. For programmers guide you, can visit following link:
 
 http://www.aspose.com/docs/display/cellsjava/Programmers+Guide
 
-You can download evaluation APIs from following URLs:
+Evaluation APIs can be downloaded from following URLs:
 
 http://www.aspose.com/community/files/default.aspx
 
