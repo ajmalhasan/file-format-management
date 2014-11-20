@@ -1,9 +1,9 @@
 # File Format Management
 
->This is a sample Java web project that shows how Aspose APIs can assist in document creation, formatting, processing and conversion in different formats like spread sheets, word and pdf documents. This project creates reports in MS Excel, PDF, HTML and PNG formats against some selected criteria.
+>This is a sample Java web project that shows how Aspose APIs can assist in document creation, formatting, processing and conversion in different formats like spread sheets, word and pdf documents. This project creates reports in MS Excel, PDF, HTML and PNG formats against selected criteria.
 <hr>
 
-For this sample project Aspose.Cells for JAVA has been used. For programmers guide you, can visit following link:
+For this sample project Aspose.Cells for JAVA has been used. For programmers guide following link can be visited:
 
 http://www.aspose.com/docs/display/cellsjava/Programmers+Guide
 
@@ -13,28 +13,28 @@ http://www.aspose.com/community/files/default.aspx
 
 ## Project Configration:
 
-Project can easily be imported on Eclipse, however there will be slight modifications for Net-beans or IntelliJ IDEA. All dependencies/libraries are in the lib folder which can be added into class-path.
+Project can easily be imported into Eclipse, however there will be slight modifications for Net-beans or IntelliJ IDEA. All dependencies/libraries are in the 'lib' folder which can be added into class-path.
 
-Database dump in included with the project as a employees.rar file.
+Database dump is included with the project as a 'employees.rar' file.
 
-Tomcat 6 has been used an application server, however project can be run on other application servers like JBoss or Glass-fish.
+Tomcat 6 has been used as an application server, however project can be run on other application servers of choice like JBoss or Glass-fish.
 
 ANT build script is also provided so that project can be build independently.
 
 ## Project Usage:
 
-When the application is run it shows four options as radio button group i.e.
+When the application is run it shows four options as radio button group vertically i.e.
 
 * Search All Employees.
 * Search All Departments.
 * Search By Employee.
 * Search By Department.
 
-When search by employee or by department is checked a combo box with employees or departments is shown which can be selected.
+When 'Search by Employee' or 'Search by Department' option is selected a combo box with employees or departments respectively is shown below with their respective values.
 
-User have to select file format type in the combo box.
+User will also have to select file format type of his choice from another the combo box.
 
-After the search criteria is submitted, a download link will display from where a report can be downloaded in required format.
+After the above search criteria is submitted, a download link will be showen. Upon clicking that link a report can be downloaded.
 
 
 Thanks
