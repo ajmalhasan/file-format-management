@@ -11,7 +11,7 @@ Evaluation APIs can be downloaded from following URLs:
 
 http://www.aspose.com/community/files/default.aspx
 
-## Project Configration:
+## Project Configration
 
 Project can easily be imported into Eclipse, however there will be slight modifications for Net-beans or IntelliJ IDEA. All dependencies/libraries are in the 'lib' folder which can be added into class-path.
 
@@ -21,7 +21,7 @@ Tomcat 6 has been used as an application server, however project can be run on o
 
 ANT build script is also provided so that project can be build independently.
 
-## Project Usage:
+## Project Usage
 
 When the application is run it shows four options as radio button group vertically i.e.
 
@@ -36,5 +36,8 @@ User will also have to select file format type of his choice from another the co
 
 After the above search criteria is submitted, a download link will be showen. Upon clicking that link a report can be downloaded.
 
+## Contributors
+Ajmal Hasan
 
-Thanks
+## License
+Ajmal Hasan 2014
