@@ -7,7 +7,7 @@ For this sample project Aspose.Cells for JAVA has been used. For programmers gui
 
 http://www.aspose.com/docs/display/cellsjava/Programmers+Guide
 
-Evaluation APIs can be downloaded from following URLs:
+Evaluation APIs can be downloaded from following URL:
 
 http://www.aspose.com/community/files/default.aspx
 
