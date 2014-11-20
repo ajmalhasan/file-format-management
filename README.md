@@ -1,6 +1,6 @@
 # File Format Management
 
->This is a sample Java web project that shows how Aspose APIs can assist in document creation, formatting, processing and conversion in different formats like spread sheets, word and pdf documents. This project creates reports in MS Excel, PDF, HTML and PNG formats against selected criteria.
+>This is a sample Java web project that shows how Aspose APIs can assist in document creation, formatting, processing and conversion in different formats like spreadsheet, word and pdf documents. This project creates reports in MS Excel, PDF, HTML and PNG formats against selected criteria.
 <hr>
 
 For this sample project Aspose.Cells for JAVA has been used. For programmers guide following link can be visited:
@@ -34,7 +34,7 @@ When 'Search by Employee' or 'Search by Department' option is selected a combo b
 
 User will also have to select file format type of his choice from another the combo box.
 
-After the above search criteria is submitted, a download link will be showen. Upon clicking that link a report can be downloaded.
+After the above search criteria is submitted, a download link will be shown. Upon clicking that link a report can be downloaded.
 
 ## Contributors
 Ajmal Hasan
