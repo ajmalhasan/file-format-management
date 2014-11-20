@@ -13,7 +13,7 @@ http://www.aspose.com/community/files/default.aspx
 
 ## Project Configration:
 
-This is a Java web project that can easily be imported on Eclipse, however there will be slight modifications on Net-beans or IntelliJ IDEA. I have included all the dependencies/libraries in the lib folder which can be added into class-path.
+Project can easily be imported on Eclipse, however there will be slight modifications for Net-beans or IntelliJ IDEA. All dependencies/libraries are in the lib folder which can be added into class-path.
 
 Database dump in included with the project as a employees.rar file.
 
